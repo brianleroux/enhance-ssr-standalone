@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node fastify.mjs"
+  },
+  "dependencies": {
+    "@enhance/ssr": "*",
+    "fastify": "^4.21.0"
+  }
+}
